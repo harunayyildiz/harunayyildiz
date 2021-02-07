@@ -4,7 +4,9 @@
 <ul>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently a student at Eskişehir Osmangazi University.</li>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I’m currently learning web and mobile development using Flutter/Dart.</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I’m currently learning web and mobile development using Flutter/Dart.</li>
  <br>
+ <li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> Mail   : <a href="mailto:ahmetcanaksu@behemehal.net">ahmetcanaksu@behemehal.net</a></li>
  <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/harunayyildizz/" rel="nofollow">
