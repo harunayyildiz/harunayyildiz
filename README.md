@@ -9,3 +9,7 @@
     <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">        
   </a>&nbsp;&nbsp;
 </p>
+
+<p align="center">
+  <a href="#"><img src="https://camo.githubusercontent.com/4cabc105f30fc72c58cfcda3358377b9e25d4b8c9f6ab0c5161ba915ff87f035/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d68616e756e6134322e68616e756e613432" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=hanuna42.hanuna42" style="max-width:100%;"></a>
+</p>
