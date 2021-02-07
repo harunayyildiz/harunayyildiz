@@ -15,6 +15,3 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://camo.githubusercontent.com/4cabc105f30fc72c58cfcda3358377b9e25d4b8c9f6ab0c5161ba915ff87f035/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d68616e756e6134322e68616e756e613432" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=hanuna42.hanuna42" style="max-width:100%;"></a>
-</p>
