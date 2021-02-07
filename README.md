@@ -3,10 +3,9 @@
 
 <ul>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently a student at Eskişehir Osmangazi University.</li>
-<li> - harunayyildiz.com</li>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I’m currently learning web and mobile development using Flutter/Dart.</li>
-
  <li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> Mail   : <a href="mailto:harunayyildizz15@gmail.com">harunayyildizz15@gmail.com</a></li>
+ <li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> Mail   : <a href="https://harunayyildiz.com">https://harunayyildiz.com</a></li>
  <br>
   <br>
 <p align="center">
