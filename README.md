@@ -1,5 +1,8 @@
 ### Merhaba ✨
 
+<ul>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently a CP student at Eskişehir Osmangazi University.</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I’m currently learning web and mobile development using Flutter/Dart.</li>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harunayyildizz/" rel="nofollow">
