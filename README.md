@@ -2,9 +2,9 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"><img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width:68%;"></a></p>
 
 <ul>
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently a student at Eskişehir Osmangazi University.</li>
+<li><g-emoji class="g-emoji" alias="basecampy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">💠</g-emoji> I am developing professional mobile applications in many fields.</li>
  
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I’m currently learning web and mobile development using Flutter/Dart.</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🤙</g-emoji> Contact me to bring quality projects to life.</li>
 
  <li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> 
  Mail: <a href="mailto:harunayyildizz15@gmail.com">harunayyildizz15@gmail.com</a></li>
